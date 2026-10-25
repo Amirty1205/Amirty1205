@@ -1,49 +1,15 @@
-Hi, I'm a Frontend Developer 👋
+# 💫 About Me:
+- Frontend Development: 2 years of experience building web applications with React, Next.js, and TypeScript.<br>- Darab E-commerce: Developed a full HVAC product catalog with filtering, sorting, pagination, and responsive UI.<br>- Darab Backend: Developed REST APIs for product management using Spring Boot and PostgreSQL.<br>- F1 Draft: Built a Formula 1 fantasy draft project focused on driver selection and draft management.<br>- Personal Portfolio: Created a bilingual Persian/English portfolio with responsive design, persistent light/dark themes, and GitHub API integration.<br>- Technical Skills: Reusable component architecture, API integration, UI/UX implementation, and responsive web design.
 
-I build modern, responsive web applications using React, Next.js, and TypeScript, with a focus on thoughtful UI/UX, reusable components, and maintainable code.
 
-I enjoy turning complex requirements into polished user experiences, from designing interfaces to integrating APIs and building complete application features.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amir._.ty) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amir.h.teymuri@gmail.com) 
 
-🚀 Featured Projects
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=amirty1205&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=amirty1205&theme=blue_navy&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=amirty1205&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-Darab — Air Conditioning E-commerce Platform
-
-A web application for browsing and discovering air conditioning products, with a focus on a clean shopping experience and responsive design.
-
-- Product catalog with filtering, sorting, and pagination
-- Responsive UI and reusable components
-- Frontend and backend integration
-
-Tech: Next.js, TypeScript, Tailwind CSS
-
-Personal Portfolio
-
-A bilingual personal portfolio showcasing my projects, skills, and development work.
-
-- Persian and English support
-- Light and dark themes
-- Dynamic project integration with the GitHub API
-- Responsive design
-
-Tech: Next.js, TypeScript, CSS
-
-🛠️ Tech Stack
-
-Frontend: React · Next.js · TypeScript · JavaScript
-
-Styling & UI: Tailwind CSS · Material UI · Bootstrap · Figma
-
-Tools: Git · GitHub · REST APIs
-
-📊 GitHub Stats
-
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=Amirty1205&show_icons=true&theme=transparent&hide_border=true)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=Amirty1205&layout=compact&theme=transparent&hide_border=true)
-
-📫 Connect With Me
-
-- Email: "amir.h.teymuri@gmail.com" (mailto:amir.h.teymuri@gmail.com)
-- Instagram: "@Amir._.ty" (https://instagram.com/Amir._.ty)
-- Telegram: "@AmirHTeymouri"
-- (https://t.me/AmirHTeymouri)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
